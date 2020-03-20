@@ -1,2 +1,1 @@
-# airflow
-For spark and hadoop batch
+# airflow for spark and hadoop batch job.
